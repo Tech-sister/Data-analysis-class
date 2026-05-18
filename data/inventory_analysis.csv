@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Supplier,Quantity,Unit_Price,Reorder_Level,Last_Update
+P001,Laptop,Electronics,TechCorp,10,850,5,2025-01-10
+P002,mouse,electronics,Global Logistics,25,20,10,01/15/2025
+P003,KEYBOARD,ELECTRONICS,SupplyHub,twenty,45,8,2025/02/10
+P004,NaN,Accessories,Supply Hub,-5,15,5,March 5 2025
+P005,Monitor,Electronics,TechCorp,15,300,7,
+P006,Printer,electronics,MegaStore,NaN,1500,6,2025-13-01
+P007,Laptop,Electronics,Techcorp,8,99,5,2025-04-11
+P008,Webcam,Accessories,SupplyHub,12,NaN,4,11-05-2025
+P009,Speaker,ACCESSORIES,Mega Store,40,75,15,NaN
+P010,Router,Networking,NetWorld,20,120,10,2025/06/01
+P011,tablet,electronics,TechCorp,30,450,12,2025-07-20
+P012,Phone,Electronics,Tech Corp,-10,100,8,07/25/2025
+P013,Charger,Accessories,SupplyHub,-18,12,5,2025.08.15
+P014,Headset,electronics,MegaStore,95,65,7,2025-09-01
+P015,SSD,Storage,StoragePlus,5,80,4,2025/03/12
+P016,Hard Drive,STORAGE,Storage Plus,40,95,10,2025/10/10
+P017,USB Cable,Accessories,SupplyHub,60,10,15,2025-11-11
+P018,Mouse,electronics,Global Logistics,32,25,10,12/12/2025
+P002,mouse,electronics,tech corp,22,25,10,12/12/2025
+P006,Projector,Electronics,VisionTech,7,50,3,
