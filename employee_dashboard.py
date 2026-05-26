@@ -34,7 +34,7 @@ def create_sidebar_filters(df):
    location = st.sidebar.multiselect(
       "Select Office Location(s)",
       options=df['office_location'].unique(),
-     default=df['office_location'].unique()
+      default=df['office_location'].unique()
    )
    remote = st.sidebar.radio(
       "Select Remote",
