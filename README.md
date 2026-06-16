@@ -1,1 +1,1 @@
-# Data-analysis-class
+# data-analysis-class
